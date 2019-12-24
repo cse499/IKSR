@@ -8,3 +8,14 @@ record with a non-immaterial property. They also proposed a few changes to the p
 inherent issues of the correspondence model utilized by Bitcoin, may alleviate them. And they presented a model that clarifies the presence
 of blockchain forks, and certify the model by coordinating it to their observations. They made some changes in the networks and their 
 estimations showed that a single node actualizing these progressions decreases the quantity of blockchain forks in the system by over 50%.
+
+2. Permacoin: Repurposing Bitcoin Work for Data Preservation:
+
+Here they propose an adjustment to Bitcoin that repurposes its mining assets to accomplish an all the more comprehensively helpful
+objective. Here they named their new scheme as permacoin, a modification to bitcoin. They allude to the essential unit of mining work in 
+Bitcoin as a scratch-off puzzle (SOP). At the time of composing, mining a Bitcoin block (bunch of coins) requires around 255 hash 
+calculations and the Bitcoin network mines a block generally every ten minutes, and subsequently devours huge computing assets and natural
+assets, for example, power, inciting boundless worry about waste. Their approach has been to supplant the fundamental computational SOP in
+Bitcoin with one dependent on Proofs-of-Retrievability. Given the size of the current Bitcoin organize, they assume that their plan would
+reuse enough assets to store at any rate a "Library of Congress" worth of information (i.e., 200 terabytes) in an globally circulated 
+system.

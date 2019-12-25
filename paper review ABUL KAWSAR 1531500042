@@ -104,3 +104,14 @@ Bitcoin-NG is a radical scalability proposal that employs “micro blocks” and
 transactional throughput and latency in bitcoin’s present peer-to-peer communication network. In addition to benchmarking 
 the performance of their proposal using a large-scale bitcoin-network simulator, the authors also introduce several novel 
 metrics such as consensus delay and mining power utilization for quantifying the security and efficiency ofblockchain protocols.
+
+
+paper no 10:
+
+
+Digital currencies:
+
+This Bank of International Settlements committee recognized bitcoin’s distributed ledger technology (the Blockchain) as a 
+“genuinely innovative element within digital currency schemes”. The report states that such ledgers may offer lower costs to
+end users compared with existing centralized arrangements and that digital currencies such as bitcoin might address gaps in
+traditional payment services.

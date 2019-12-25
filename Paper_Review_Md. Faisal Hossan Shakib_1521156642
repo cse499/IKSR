@@ -29,3 +29,16 @@ conspire is intended to enable prime chain to work as adjustable trouble proof o
 of this paper proposed a design of an authentic prime number based proof of work  giving both printing and security to cryptographic money
 systems like hashcash sort of proof of-work and they named it primecoin. This paper is intended to make ready for other proof-of-work types
 with different logical processing esteems to rise.
+
+
+4. Quantitative Analysis of the Full Bitcoin Transaction Graph:
+
+In this paper they discussed the answer for an assortment of inquiries regarding the conduct of the clients, how they get and how they 
+spend their bitcoins, the equalization of bitcoins they keep in their records, and how they move bitcoins between their different records
+apropos to more likely secure their privacy. The authors tried to answer some precise questions like what number of various clients are 
+there in the system? What number of bitcoins are commonly kept in each record, and how does this equalization shift after some time? Are
+most bitcoins kept by a couple of enormous clients? Do they keep their bitcoins in saving accounts" or do they spend them right away?
+What number of clients had enormous adjusts sooner or later in time? What is the size circulation of bitcoin exchanges, and what number
+of them are micropayments? They noticed that the subgraph which contains the huge exchanges alongside their neighborhood has numerous
+peculiar looking structures which could be an endeavor to disguise the presence and connection between these exchanges, yet such an 
+endeavor can be thwarted by following the cash trail in a sufficiently diligent manner.

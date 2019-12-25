@@ -67,3 +67,18 @@ technique that permits users to hide the values of their payments from the publi
 enough information to grant miners to justify that the sum of the coins transacted is preserved. Implementing confidential 
 transactions in bitcoin requires impulse protocol changes; however, experiment is currently being carried out on Blockstream sidechains.
   
+
+paper no 7:
+
+Eclipse Attacks on Bitcoin’s Peer-to-Peer Network:
+
+Security researchers have been impatientr to identify new attack vectors against the bitcoin network since the authors of the 
+“selfish mining” paper garnered praise and publicity in 2013. Presented in August on the time of the 24th USENIX Security 
+Symposium in Washington, DC, authors Heilman, Kendler, Zohar and Goldberg express the “eclipse attack”, in which the attacker
+“monopolizes all of the victim’s incoming and outgoing connections, thus isolating the victim from the rest of its peers in the 
+network”. The attacker can then strategy the victim by feeding him misinformation about the state of the ledger, or coopt the
+victim’s computing power for its own iniquitous purposes.
+
+
+
+

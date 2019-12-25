@@ -1,47 +1,48 @@
 1. Information Propagation in the Bitcoin Network:
 
-In this paper they studied how Bitcoin utilizes a multi-bounce communicate to spread exchanges and blocks through the system to update the
-record copies. Then they utilize the assembled data to check the idea that the engendering delay in the system is the essential reason for
-blockchain forks. They suggested that Blockchain forks ought to be kept away from as they are symptomatic for irregularities among the
-imitations in the network. They tried to break down the synchronization component which neglects to synchronize the data put away at the
-record with a non-immaterial property. They also proposed a few changes to the present convention that, while not an answer for the
-inherent issues of the correspondence model utilized by Bitcoin, may alleviate them. And they presented a model that clarifies the presence
-of blockchain forks, and certify the model by coordinating it to their observations. They made some changes in the networks and their 
-estimations showed that a single node actualizing these progressions decreases the quantity of blockchain forks in the system by over 50%.
+In this paper they studied how Bitcoin utilizes a multi-bounce communicate to spread exchanges and blocks through the system to update 
+the record copies. Then they utilize the assembled data to check the idea that the engendering delay in the system is the essential 
+reason for blockchain forks. They suggested that Blockchain forks ought to be kept away from as they are symptomatic for irregularities 
+among the imitations in the network. They tried to break down the synchronization component which neglects to synchronize the data put 
+away at the record with a non-immaterial property. They also proposed a few changes to the present convention that, while not an answer 
+for the inherent issues of the correspondence model utilized by Bitcoin, may alleviate them. And they presented a model that clarifies 
+the presence of blockchain forks, and certify the model by coordinating it to their observations. They made some changes in the networks
+and their estimations showed that a single node actualizing these progressions decreases the quantity of blockchain forks in the system 
+by over 50%.
 
 2. Permacoin: Repurposing Bitcoin Work for Data Preservation:
 
 Here they propose an adjustment to Bitcoin that repurposes its mining assets to accomplish an all the more comprehensively helpful
 objective. Here they named their new scheme as permacoin, a modification to bitcoin. They allude to the essential unit of mining work in 
 Bitcoin as a scratch-off puzzle (SOP). At the time of composing, mining a Bitcoin block (bunch of coins) requires around 255 hash 
-calculations and the Bitcoin network mines a block generally every ten minutes, and subsequently devours huge computing assets and natural
-assets, for example, power, inciting boundless worry about waste. Their approach has been to supplant the fundamental computational SOP in
-Bitcoin with one dependent on Proofs-of-Retrievability. Given the size of the current Bitcoin organize, they assume that their plan would
-reuse enough assets to store at any rate a "Library of Congress" worth of information (i.e., 200 terabytes) in an globally circulated 
-system.
+calculations and the Bitcoin network mines a block generally every ten minutes, and subsequently devours huge computing assets and 
+natural assets, for example, power, inciting boundless worry about waste. Their approach has been to supplant the fundamental 
+computational SOP in Bitcoin with one dependent on Proofs-of-Retrievability. Given the size of the current Bitcoin organize, they 
+assume that their plan would reuse enough assets to store at any rate a "Library of Congress" worth of information (i.e., 200 terabytes)
+in an globally circulated system.
 
 
 3. Primecoin: Cryptocurrency with Prime Number Proof-of-Work:
 
 This paper studied about a sort of proof of-work dependent on scanning for prime numbers is presented in shared cryptocurrency plans. 
 Prime chain is connected to block hash to safeguard the security property of Nakamoto's Bitcoin, while a persistent trouble assessment 
-conspire is intended to enable prime chain to work as adjustable trouble proof of-work in a Bitcoin like cryptographic money. The authors 
-of this paper proposed a design of an authentic prime number based proof of work  giving both printing and security to cryptographic money
-systems like hashcash sort of proof of-work and they named it primecoin. This paper is intended to make ready for other proof-of-work types
-with different logical processing esteems to rise.
+conspire is intended to enable prime chain to work as adjustable trouble proof of-work in a Bitcoin like cryptographic money. The 
+authors of this paper proposed a design of an authentic prime number based proof of work  giving both printing and security to 
+cryptographic money systems like hashcash sort of proof of-work and they named it primecoin. This paper is intended to make ready for 
+other proof-of-work types with different logical processing esteems to rise.
 
 
 4. Quantitative Analysis of the Full Bitcoin Transaction Graph:
 
 In this paper they discussed the answer for an assortment of inquiries regarding the conduct of the clients, how they get and how they 
-spend their bitcoins, the equalization of bitcoins they keep in their records, and how they move bitcoins between their different records
-apropos to more likely secure their privacy. The authors tried to answer some precise questions like what number of various clients are 
-there in the system? What number of bitcoins are commonly kept in each record, and how does this equalization shift after some time? Are
-most bitcoins kept by a couple of enormous clients? Do they keep their bitcoins in saving accounts" or do they spend them right away?
-What number of clients had enormous adjusts sooner or later in time? What is the size circulation of bitcoin exchanges, and what number
-of them are micropayments? They noticed that the subgraph which contains the huge exchanges alongside their neighborhood has numerous
-peculiar looking structures which could be an endeavor to disguise the presence and connection between these exchanges, yet such an 
-endeavor can be thwarted by following the cash trail in a sufficiently diligent manner.
+spend their bitcoins, the equalization of bitcoins they keep in their records, and how they move bitcoins between their different 
+records apropos to more likely secure their privacy. The authors tried to answer some precise questions like what number of various 
+clients are there in the system? What number of bitcoins are commonly kept in each record, and how does this equalization shift after 
+some time? Are most bitcoins kept by a couple of enormous clients? Do they keep their bitcoins in saving accounts" or do they spend 
+them right away? What number of clients had enormous adjusts sooner or later in time? What is the size circulation of bitcoin exchanges,
+and what number of them are micropayments? They noticed that the subgraph which contains the huge exchanges alongside their neighborhood
+has numerous peculiar looking structures which could be an endeavor to disguise the presence and connection between these exchanges, 
+yet such an endeavor can be thwarted by following the cash trail in a sufficiently diligent manner.
 
 
 5. Nonoutsourceable Scratch-Off Puzzles to Discourage Bitcoin Mining Coalitions: 
@@ -67,7 +68,14 @@ is a novel consensus convention that requires no proof of-work mining and has a 
 attacks. And they made a weak presumption about the member's abilities to keep time, and they assume incomplete synchrony of the
 system.
 
+7.	Zerocoin: Anonymous Distributed E-Cash from Bitcoin: 
 
+While Bitcoin offers the potential for new sorts of budgetary association, it has huge impediments with respect to privacy. In this 
+paper they propose Zerocoin, a cryptographic augmentation to Bitcoin that increases the convention to take into account completely 
+mysterious money exchanges and their system uses standard cryptographic assumption and does not bring in new parties or change the 
+security model. In this paper they portray Zerocoin, a circulated e-money system that utilizations cryptographic methods to break the 
+connection between individual Bitcoin exchanges without including confided in parties. They conclude that their works has a several 
+open problem and further research on their works could prompt various tradeoffs between security, responsibility, and anonymity.
 
 
 
